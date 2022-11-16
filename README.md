@@ -52,7 +52,7 @@ INFO     Initialized scenario in /root/ansible_role/roles/vector-role/molecule/d
 ![](pic/molecule_test_u.jpg)
 
 5. 
-[Ссылка на vector tag-1.0.1](https://github.com/Valdem88/dev-17_ansible-04-role-yakovlev_vs/tree/1.0.1/roles/vector-role)
+[Ссылка на vector tag-1.0.2](https://github.com/Valdem88/dev-17_ansible-04-role-yakovlev_vs/tree/1.0.2/roles/vector-role)
 
 ### Tox
 
@@ -1483,7 +1483,7 @@ ________________________________________________________________ summary _______
 
 7.
 
-[Ссылка на vector tag-1.0.2](https://github.com/Valdem88/dev-17_ansible-04-role-yakovlev_vs/tree/1.0.1/roles/vector-role)
+[Ссылка на vector tag-1.0.3](https://github.com/Valdem88/dev-17_ansible-04-role-yakovlev_vs/tree/1.0.3/roles/vector-role)
 ## Необязательная часть
 
 1. Проделайте схожие манипуляции для создания роли lighthouse.
